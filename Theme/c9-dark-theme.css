@@ -1,0 +1,441 @@
+
+.codeditorHolder .editor_tab {
+  background: #191D23;
+}
+
+
+.panelsbar {
+    background: #22262C;
+    border:none;
+    box-shadow:0 -1px 0 #22262C;
+}
+
+.ace_tree_cells {
+    background: #2F3238;
+}
+
+.panelsbutton {
+    background: #21252B;
+}
+
+.panelsbuttonDown {
+    background: #2F3238
+}
+
+.panel-bar {
+    background: #2F3238;
+    border: none;
+    box-shadow: none;
+}
+
+.filetree .tree-row.selected {
+    background: #22262C;
+}
+
+.frame > .title {
+    color: #E9E9E9;
+    background: #21252B;
+    border:none;
+    box-shadow:none;
+}
+
+.chatText {
+    background: #2F3238;
+}
+
+.editor_tab .btnsesssioncontainer {
+    background: #21252B;
+    box-shadow: none;
+    border: solid 1px #21252B;
+}
+
+.session_btn .tab_middle,
+.session_btn .tab_shadow {
+    background-image: none;
+}
+
+.session_btn:not(.curbtn) .tab_middle,
+.session_btn:not(.curbtn) .tab_middle:after,
+.session_btn:not(.curbtn) .tab_middle:before {
+    background-color: #2F3238;
+    -webkit-transition: background-color 0.15s linear;
+}
+
+.session_btn .tab_middle:before,
+.session_btn .tab_middle:after,
+.session_btn .tab_shadow:before,
+.session_btn .tab_shadow:after {
+    background-image: none;
+}
+
+.c9-menu-bar .c9-mbar-cont {
+    background: #1A1E24;
+}
+
+.access_control.rw .readbutton,
+.access_control.r .writebutton {
+
+    background: #2B88CA;
+    /*border-radius: 3px;*/
+    /*box-shadow: 0 1px rgba(255, 255, 255, 0.2) inset, 0 0 2px #000000;*/
+    background-image: none;
+
+}
+
+.memberstree .tree-row.selected {
+    background: #3C3F45;
+}
+
+.memberstree.ace_tree_focus .tree-row.selected {
+    background: #3C3F45;
+}
+
+.session_btn.over:not(.curbtn) .tab_middle,
+.session_btn.over:not(.curbtn) .tab_middle:after,
+.session_btn.over:not(.curbtn) .tab_middle:before {
+    background-color: #3C3F44;
+}
+
+.filetree.ace_tree_focus .tree-row.selected {
+    background: #3C3F44;
+    color: #f1f1f1;
+}
+
+.searchresults .item.selected {
+    background: #3C3F45;
+}
+
+.searchresults .item .keys {
+    color: #3189C8;
+    text-shadow: none;
+}
+
+.panelsbuttonDown,
+.panelsbuttonDown:hover {
+    background: #2F3238;
+    border: none;
+    box-shadow: none;
+}
+
+.notificationstree .tree-row:hover {
+  background: #21252B;
+}
+.notificationstree .tree-row.selected {
+  background:#21252B;
+}
+.notificationstree.ace_tree_focus .tree-row.selected {
+  background:#21252B;
+}
+
+.has_apf .blackdg,
+.listBP {
+  background: #2F3237;
+}
+
+.blackdg .tree-headings {
+
+  background: #2F3238;
+}
+
+.frame > .title:hover {
+    background:#191D23;
+}
+.frame > .title:active {
+    background:#191D23;
+}
+.bar-preferences .navigation {
+  background:#191D23;
+  border-right:none;
+  box-shadow: none;
+  z-index: 1;
+}
+
+.bar-preferences .navigation .level1.active > a {
+  color: #ffffff;
+  background: #3189C8;
+  text-shadow: none;
+}
+
+.bar-preferences .container > .hsplitbox,
+.bar-preferences .container > .basic {
+  background: #2F3237;
+  border-bottom:none;
+  border-top: none;
+
+}
+
+.bar-preferences .container .header {
+  color: #dddddd;
+  border-bottom: none;
+  background-color: #21252B;
+}
+
+.prefpanel a {
+  color: #368AC6;
+  text-decoration: none;
+}
+
+.bar-preferences .navigation .current a {
+  color: #368AC6;
+}
+
+.toolbar-top {
+  border-top: none;
+  border-bottom: none;
+  background-color: #20242A;
+}
+
+.right .panelsbuttonDown,
+.right .panelsbuttonDown:hover {
+     border:none;
+     box-shadow:none;
+     
+}
+
+.panelsbuttonDown,
+.panelsbuttonDown:hover {
+     border:none;
+     box-shadow:none;
+     
+}
+
+
+.right .panelsbar {
+     border:none;
+     box-shadow: 0px 2px 0 #2F3238; 
+
+}
+
+.panelsbar .panelsbuttonDown.debugger,
+.panelsbar .panelsbuttonDown.debugger:hover {
+   box-shadow: none;
+}
+
+.outline.ace_tree.focus .tree-row.selected {
+  background: #3189C8;
+  color: #f1f1f1;
+}
+
+.c9menu {
+  border: 1px solid #20242A;
+  box-shadow: none;
+  background-color: #2F3238;
+  text-shadow:none;
+  border-radius: 0;
+}
+
+
+.bar-preferences .navigation .level1.active {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.bar-preferences {
+
+  background:#2F3238;
+}
+
+.filetree-icon.folder {
+  background-image: url(https://d6ff1xmuve0sx.cloudfront.net/nc-3.0.2121-58e8bf70/static/plugins/c9.ide.layout.classic/icons/folder_flat_light.png);
+  background-repeat: no-repeat;
+}
+
+
+
+.focus.session_btn.curbtn.dark .sessiontab_title:after {
+
+  background-image:none;
+}
+
+
+.c9-menu-btnOver {
+  background-color: #2F3237;
+  box-shadow: none;
+}
+
+
+.c9-menu-btnDown {
+  background-color: #2F3237;
+  box-shadow: none;
+}
+
+
+.filetree .heading {
+ 
+  color: #5B5E64;
+  text-shadow:none;
+
+}
+
+
+.c9menu > div.menu_item.hover {
+  background-color:#21252B;
+  color: #B7C5C8;
+}
+
+
+.right .panel-bar {
+
+   border:none;; 
+   box-shadow: none; 
+}
+
+
+.access_control.rw .readbutton,
+.access_control.r .writebutton {
+  
+  background:#53ACF4;
+}
+
+
+.memberstree.ace_tree_focus .selected .access_control.rw .readbutton,
+.memberstree.ace_tree_focus .selected .access_control.r .writebutton {
+  
+  background:#53ACF4;
+}
+
+
+
+
+
+/* ==================  ACE  */
+/* ==================  ACE  */
+/* ==================  ACE  */
+/* ==================  ACE  */
+
+
+
+
+.ace-tomorrow-night .ace_gutter {
+  background: #25282c;
+  color: #C5C8C6
+}
+
+.ace-tomorrow-night .ace_print-margin {
+  width: 1px;
+  background: #25282c
+}
+
+.ace-tomorrow-night {
+  background-color: #1D1F21;
+  color: #C5C8C6
+}
+
+.ace-tomorrow-night .ace_cursor {
+  color: #2B88CA;
+}
+
+.ace-tomorrow-night .ace_marker-layer .ace_selection {
+  background: #373B41
+}
+
+.ace-tomorrow-night.ace_multiselect .ace_selection.ace_start {
+  box-shadow: 0 0 3px 0px #1D1F21;
+}
+
+.ace-tomorrow-night .ace_marker-layer .ace_step {
+  background: rgb(102, 82, 0)
+}
+
+.ace-tomorrow-night .ace_marker-layer .ace_bracket {
+  margin: -1px 0 0 -1px;
+  border: 1px solid #4B4E55
+}
+
+.ace-tomorrow-night .ace_marker-layer .ace_active-line {
+  background: #282A2E
+}
+
+.ace-tomorrow-night .ace_gutter-active-line {
+  background-color: #282A2E
+}
+
+.ace-tomorrow-night .ace_marker-layer .ace_selected-word {
+  border: 1px solid #373B41
+}
+
+.ace-tomorrow-night .ace_invisible {
+  color: #4B4E55
+}
+
+.ace-tomorrow-night .ace_keyword,
+.ace-tomorrow-night .ace_meta,
+.ace-tomorrow-night .ace_storage,
+.ace-tomorrow-night .ace_storage.ace_type,
+.ace-tomorrow-night .ace_support.ace_type {
+  color: #7FAECF;
+}
+
+.ace-tomorrow-night .ace_keyword.ace_operator {
+  color:#C0C5CE;
+}
+
+.ace-tomorrow-night .ace_constant.ace_character,
+.ace-tomorrow-night .ace_constant.ace_language,
+.ace-tomorrow-night .ace_constant.ace_numeric,
+.ace-tomorrow-night .ace_keyword.ace_other.ace_unit,
+.ace-tomorrow-night .ace_support.ace_constant,
+.ace-tomorrow-night .ace_variable.ace_parameter {
+  color:#CC8770
+}
+
+.ace-tomorrow-night .ace_constant.ace_other {
+  color: #CED1CF
+}
+
+.ace-tomorrow-night .ace_invalid {
+  color: #CED2CF;
+  background-color: #DF5F5F
+}
+
+.ace-tomorrow-night .ace_invalid.ace_deprecated {
+  color: #CED2CF;
+  background-color: #B798BF
+}
+
+.ace-tomorrow-night .ace_fold {
+  background-color: #81A2BE;
+  border-color: #C5C8C6
+}
+
+.ace-tomorrow-night .ace_entity.ace_name.ace_function,
+.ace-tomorrow-night .ace_support.ace_function,
+.ace-tomorrow-night .ace_variable {
+  color: #91BE7C;
+}
+
+.ace-tomorrow-night .ace_support.ace_class,
+.ace-tomorrow-night .ace_support.ace_type {
+  color: #B7C5CE
+}
+
+.ace-tomorrow-night .ace_heading,
+.ace-tomorrow-night .ace_markup.ace_heading,
+.ace-tomorrow-night .ace_string {
+  color: #A3BE8C;
+}
+
+.ace-tomorrow-night .ace_entity.ace_name.ace_tag,
+.ace-tomorrow-night .ace_entity.ace_other.ace_attribute-name,
+.ace-tomorrow-night .ace_meta.ace_tag,
+.ace-tomorrow-night .ace_string.ace_regexp,
+.ace-tomorrow-night .ace_variable {
+  color: #7dadd0;
+}
+
+.ace-tomorrow-night .ace_comment {
+  color: #67696E;
+}
+
+.ace-tomorrow-night .ace_indent-guide {
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAACCAYAAACZgbYnAAAAEklEQVQImWNgYGBgYHB3d/8PAAOIAdULw8qMAAAAAElFTkSuQmCC) right repeat-y
+}
+
+
+
+/**/
+/**/
+/**/
+/**/
+/**/
+/**/
+
